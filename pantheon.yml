@@ -4,3 +4,4 @@ api_version: 1
 filemount: /files
 protected_web_paths:
 - /sites/default/protectweb.txt
+- /protectweb.txt
