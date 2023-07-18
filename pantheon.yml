@@ -3,4 +3,4 @@
 api_version: 1
 
 protected_web_paths:
- - /sites/default/protectweb.txt
+- /sites/default/protectweb.txt
